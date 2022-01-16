@@ -36,3 +36,6 @@ class Solution:
 s=Solution()
 
 print(s.minimumAbsDifference([1,2,3,4]))
+
+
+print(min(float('inf')))
